@@ -1,0 +1,12 @@
+$ npm init
+{
+  "name": "node-line-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Jerry Huang",
+  "license": "MIT"
+}
